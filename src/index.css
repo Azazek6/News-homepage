@@ -91,3 +91,15 @@
   font-family: InterRegular;
   src: url(./assets/fonts/Inter-Regular.ttf);
 }
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  font-weight: bold;
+}
