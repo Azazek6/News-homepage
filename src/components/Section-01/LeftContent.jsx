@@ -2,13 +2,13 @@ const LeftContent = () => {
   return (
     <div className="sm:w-[70%] flex flex-col gap-6">
       <img
-        src="/image-web-3-mobile.jpg"
+        src="/News-homepage/image-web-3-mobile.jpg"
         width={1000}
         className="w-full h-[20rem] flex md:hidden"
         alt="logo"
       />
       <img
-        src="/image-web-3-desktop.jpg"
+        src="/News-homepage/image-web-3-desktop.jpg"
         width={1000}
         className="w-full h-[15rem] hidden md:flex"
         alt="logo"

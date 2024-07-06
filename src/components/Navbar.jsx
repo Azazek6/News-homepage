@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className="w-[100%] sm:w-[90%] flex item-center justify-between py-5 px-4 sm:px-8">
       <div className="sm:w-[30%] flex justify-start">
         <img
-          src="/logo.svg"
+          src="/News-homepage/logo.svg"
           width={1000}
           height={1000}
           alt="logo"
@@ -26,7 +26,7 @@ const Navbar = () => {
       <div className="sm:w-[70%] flex sm:hidden justify-end ">
         {navigation ? (
           <img
-            src="/icon-menu-close.svg"
+            src="/News-homepage/icon-menu-close.svg"
             width={1000}
             height={1000}
             className="w-[100%]"
@@ -34,7 +34,7 @@ const Navbar = () => {
           />
         ) : (
           <img
-            src="/icon-menu.svg"
+            src="/News-homepage/icon-menu.svg"
             width={1000}
             height={1000}
             className="w-[100%]"

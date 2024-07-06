@@ -4,7 +4,7 @@ const SecondContent = () => {
       <div className="md:w-1/3 flex gap-5">
         <div className="w-[30%]">
           <img
-            src="/image-retro-pcs.jpg"
+            src="/News-homepage/image-retro-pcs.jpg"
             alt="pc-retro"
             width={1000}
             height={1000}
@@ -27,7 +27,7 @@ const SecondContent = () => {
       <div className="md:w-1/3 flex gap-5">
         <div className="w-[30%]">
           <img
-            src="/image-top-laptops.jpg"
+            src="/News-homepage/image-top-laptops.jpg"
             width={1000}
             height={1000}
             alt="pc-retro"
@@ -50,7 +50,7 @@ const SecondContent = () => {
       <div className="md:w-1/3 flex gap-5">
         <div className="w-[30%]">
           <img
-            src="/image-gaming-growth.jpg"
+            src="/News-homepage/image-gaming-growth.jpg"
             alt="pc-retro"
             width={1000}
             height={1000}
